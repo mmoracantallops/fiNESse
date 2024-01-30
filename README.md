@@ -83,6 +83,8 @@ Here is how it looks when finished. There is a potentiometer for the Expansion A
 If you feel fancy, you can even use one of RetroGame Restore (https://retrogamerestore.com/) replacement shells and install both the MD2 type cable and the multiout one:
 ![PXL_20231222_110154607](https://github.com/mmoracantallops/fiNESse/assets/19650480/ad56db23-e85a-41dc-9e84-2411e466c386)
 ![PXL_20231222_110146651](https://github.com/mmoracantallops/fiNESse/assets/19650480/c3b650da-2eaf-47ca-8266-d5480bd9aec5)
+
+The metal sticker for the name/logo is from an etsy shop.
 ![PXL_20231222_105852839](https://github.com/mmoracantallops/fiNESse/assets/19650480/ae434506-102b-40a8-8c75-e206f6e7abc8)
 
 It works beautifully (at least in my humble opinion):
