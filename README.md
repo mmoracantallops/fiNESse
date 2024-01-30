@@ -35,7 +35,7 @@ MerlinShaw's Power Modules: https://github.com/ShawMerlin/NES-Power-Module-Redes
     - RCA connectors for composite video and audio.
  
 # BOM
-The current BOM is included in each folder; there are a few things that could be changed in the power board (e.g. the power regulator) for better availability, but I'll leave that for a future update.
+The current BOM is included here; I'm not sure whether I included everything but I did my best. If you notice some element is missing, please let me know. There are a few things that could be changed in the power board (e.g. the power regulator) for better availability, but I'll leave that for a future update. Of course, these are the components I had either because I based my design in the TinyNES or Merlin Shaw's or my own preferences and availability. Feel free to change anything if you feel like it.
 
 # Pictures
 
