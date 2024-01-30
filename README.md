@@ -53,6 +53,8 @@ This is the produced (prototype) board:
 Now, with the components soldered in place. Only the power/reset and controller connectors are sourced from another (preferably dead) NES. The 72 pin conector and load mechanism are also taken from another dead unit.
 
 ![PXL_20240118_234944957](https://github.com/mmoracantallops/fiNESse/assets/19650480/5ff2cf66-8c33-4d7d-8b05-01080ef068da)
+
+Notice there was a missing connection in the prototype with an easy fix; it is fixed in the uploaded version, though. The prototype also had a small issue with the blue power/reset connector; the tiny but long holes below caused an issue in manufacturing connecting Vcc and Ground planes. I moved the Vcc fill to prevent this from happening.
 ![PXL_20240119_065805355](https://github.com/mmoracantallops/fiNESse/assets/19650480/29c1e7a6-cab6-4591-bfca-ec18c006a6e2)
 ![PXL_20240119_065819091](https://github.com/mmoracantallops/fiNESse/assets/19650480/adcf6431-006b-4d76-9724-aef248d946a8)
 
